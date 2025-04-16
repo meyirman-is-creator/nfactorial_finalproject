@@ -1,0 +1,1 @@
+from app.models.user_course import user_course_association
